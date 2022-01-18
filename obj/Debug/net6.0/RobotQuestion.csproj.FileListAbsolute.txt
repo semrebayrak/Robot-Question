@@ -1,0 +1,15 @@
+C:\RobotQuestion\bin\Debug\net6.0\RobotQuestion.exe
+C:\RobotQuestion\bin\Debug\net6.0\RobotQuestion.deps.json
+C:\RobotQuestion\bin\Debug\net6.0\RobotQuestion.runtimeconfig.json
+C:\RobotQuestion\bin\Debug\net6.0\RobotQuestion.dll
+C:\RobotQuestion\bin\Debug\net6.0\ref\RobotQuestion.dll
+C:\RobotQuestion\bin\Debug\net6.0\RobotQuestion.pdb
+C:\RobotQuestion\obj\Debug\net6.0\RobotQuestion.csproj.AssemblyReference.cache
+C:\RobotQuestion\obj\Debug\net6.0\RobotQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\RobotQuestion\obj\Debug\net6.0\RobotQuestion.AssemblyInfoInputs.cache
+C:\RobotQuestion\obj\Debug\net6.0\RobotQuestion.AssemblyInfo.cs
+C:\RobotQuestion\obj\Debug\net6.0\RobotQuestion.csproj.CoreCompileInputs.cache
+C:\RobotQuestion\obj\Debug\net6.0\RobotQuestion.dll
+C:\RobotQuestion\obj\Debug\net6.0\ref\RobotQuestion.dll
+C:\RobotQuestion\obj\Debug\net6.0\RobotQuestion.pdb
+C:\RobotQuestion\obj\Debug\net6.0\RobotQuestion.genruntimeconfig.cache
